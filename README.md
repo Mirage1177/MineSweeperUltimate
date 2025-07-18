@@ -2,7 +2,7 @@
 Welcome to the classic Minesweeper, reimagined in Python! This repo includes two distinct versions of the game:
 
 - 🖥️ **Command-Line Interface (CLI)** version — for nostalgic, terminal-loving players  
-- 🪟 **Graphical User Interface (GUI)** version — built with Tkinter for a colorful, click-friendly experience
+-  **Graphical User Interface (GUI)** version — built with Tkinter for a colorful, click-friendly experience
 
 ---
 
